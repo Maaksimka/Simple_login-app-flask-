@@ -1,0 +1,3 @@
+<IfModule mod_headers.C>
+  Header set Access-Control-Allow-Origin "*"
+</IfModule>
